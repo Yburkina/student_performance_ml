@@ -35,7 +35,7 @@ Features include demographics, parental education, lunch type, test preparation,
 
 ## Decision Tree Visualization
 
-![Decision Tree](decision_tree.png)
+![Decision Tree](images/decision_tree.png)
 
 This visualization shows how the model splits on reading and writing scores first, confirming their strong influence on student performance outcomes.
 
